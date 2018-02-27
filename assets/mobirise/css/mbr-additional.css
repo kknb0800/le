@@ -1809,7 +1809,7 @@ body {
   color: #767676;
 }
 .cid-qKMIgH1TyO .section-text P {
-  color: #876c0e;
+  color: #767676;
   text-align: center;
 }
 .cid-qKObmGtgUn {
@@ -2275,7 +2275,7 @@ body {
   color: #876c0e !important;
 }
 .cid-qKMHhw8hzO {
-  padding-top: 60px;
+  padding-top: 0px;
   padding-bottom: 60px;
   background-color: #000000;
 }
@@ -3787,6 +3787,9 @@ body {
 }
 .cid-qKOYowoBBQ H2 {
   color: #c1c1c1;
+}
+.cid-qKOYowoBBQ LABEL {
+  color: #767676;
 }
 .cid-qKOYpoC37X .google-map {
   height: 25rem;
